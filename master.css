@@ -1,0 +1,13 @@
+*{   background-color: #FAF9F4;
+    overflow-x:hidden;
+}
+
+
+.tit{
+  padding:100px;
+  width: auto;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
